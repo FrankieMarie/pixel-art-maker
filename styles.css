@@ -24,6 +24,7 @@ h1, h2 {
     height: 20px;
     border: 1px solid #ddd;
     float: left;
+    cursor: pointer;
 }
 
 #main {
