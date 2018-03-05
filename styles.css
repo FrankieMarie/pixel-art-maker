@@ -1,0 +1,39 @@
+h1, h2 {
+    text-align: center;
+}
+
+.row {
+    display: block;
+    height: 17px;
+}
+
+.box {
+    width: 15px;
+    height: 15px;
+    border: 1px solid #ddd;
+    float: left;
+}
+
+.color-row{
+    display: block;
+    height: 22px;
+}
+
+.color-box {
+    width: 20px;
+    height: 20px;
+    border: 1px solid #ddd;
+    float: left;
+}
+
+#main {
+    margin: 20px auto;
+    width: 1360px;
+    height: 850px;
+}
+
+#pallet {
+    margin: 0 auto;
+    width: 1100px;
+    height: 50px;
+}
